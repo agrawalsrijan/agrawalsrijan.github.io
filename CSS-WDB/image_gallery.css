@@ -1,0 +1,15 @@
+body{
+	background-color: #96ACAD;
+}
+img{
+	width: 30%;
+	height: 30%;
+	float: left;
+	margin: 1.65%;
+}
+ h2{
+ 	font-family: Crimson Text;
+ 	padding-bottom: 20px;
+ 	width:30%;
+ 	border-bottom: 2px solid #E9E2E2;
+ }

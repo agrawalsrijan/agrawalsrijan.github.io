@@ -1,0 +1,22 @@
+
+
+
+
+embed link-
+<link href="https://fonts.googleapis.com/css?family=Crimson+Text|Indie+Flower|Lexend+Mega|Livvic:200,400&display=swap" rel="stylesheet"> 
+
+
+
+
+
+css specifying-
+
+
+    font-family: 'Livvic', sans-serif;
+
+    font-family: 'Crimson Text', serif;
+
+    font-family: 'Lexend Mega', sans-serif;
+
+    font-family: 'Indie Flower', cursive;
+

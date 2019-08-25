@@ -1,0 +1,24 @@
+h1{
+	color: #0F9372;
+	border-color: #961DEB;
+	border-width: 5px;
+	border-style: solid;
+	border: 3px solid #E74646
+}
+
+body {
+	background-color: #96ACAD;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+a img{
+	width: 45px;
+	height: 45px;
+	float:right;
+	margin: 4px;
+}
+body{
+	font-family: Lexend Mega;
+}
+

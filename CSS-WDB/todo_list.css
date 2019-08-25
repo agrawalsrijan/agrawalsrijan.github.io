@@ -1,0 +1,17 @@
+body{
+	background-color: #FA945C;
+}
+
+li{
+	border: 2px solid #E8E35E;
+}
+
+#main{
+	border: 4px solid #4A4804;
+	background-color: #F30B0B
+}
+
+.Done{
+	text-decoration: line-through;
+	background-color: #1EE1CC
+}

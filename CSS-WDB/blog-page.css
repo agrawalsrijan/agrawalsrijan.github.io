@@ -1,0 +1,37 @@
+body{
+	font-family: Livvic;
+	max-width: 700px;
+	width:75%;
+	margin: 18px auto;
+	border:5px solid #A6A4A4;
+	padding: 10px;
+}
+
+h2{
+	color: #8AD4EF;
+	letter-spacing: 0.23rem;
+
+}
+p{
+	padding-bottom:10px;
+	padding-left:4px;
+}
+.left-side-border{
+	border-left: 4px solid #90F1B2;
+}
+
+.date{
+	text-transform: uppercase;
+	color: #89D62F;
+	letter-spacing: 0.2rem;
+}
+.post{
+	margin-bottom: 15px;
+}
+
+
+
+
+
+
+
