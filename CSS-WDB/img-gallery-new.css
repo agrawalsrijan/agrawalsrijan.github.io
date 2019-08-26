@@ -1,3 +1,23 @@
 body{
 	font-family: Livvic;
+	padding-top: 65px;
+}
+.jumbotron h3{
+	color: #49AFD5;
+}
+.jumbotron p{
+	color: #73C244;
+}
+
+.navbar-inverse .navbar-brand{
+	color:#F6f6f6;
+	background-color: #414141;
+
+}
+.navbar-brand{
+	padding: 9px 15px;
+	font-size: 22px;
+}
+.navbar-inverse .navbar-nav li a{
+	color: #F5F0F0;
 }
