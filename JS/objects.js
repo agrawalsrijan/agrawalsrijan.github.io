@@ -1,0 +1,1 @@
+// objects are basically dictionaries usk andar function likh  do to method bn jaega uska
