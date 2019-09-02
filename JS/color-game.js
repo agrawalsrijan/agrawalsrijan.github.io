@@ -35,7 +35,7 @@ easy.addEventListener("click",function(){
 			squares[i].style.display="none";
 		}
 	}
-	h1.style.backgroundColor="#232323";
+	h1.style.backgroundColor="steelblue";
 	
 });
 
@@ -52,7 +52,7 @@ hard.addEventListener("click",function(){
 		squares[i].style.backgroundColor=colors[i];
 		squares[i].style.display="block";
 	}
-	h1.style.backgroundColor="#232323";
+	h1.style.backgroundColor="steelblue";
 });
 
 // config reset button
@@ -67,7 +67,7 @@ resetButton.addEventListener("click",function(){
 		squares[i].style.backgroundColor = colors[i];
 
 	}
-	h1.style.backgroundColor="#232323";
+	h1.style.backgroundColor="steelblue";
 });
 
 pickedColorDisplay.textContent=pickedColor;
